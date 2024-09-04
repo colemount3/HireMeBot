@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Workflow Overview
 
 The chatbot operates as follows (in shameless pseudo-code):
@@ -16,6 +16,4 @@ The chatbot operates as follows (in shameless pseudo-code):
      - *(Note: This approach is feasible for smaller datasets like mine.)*
 
 =======
-This file is for code review and referance purposes only. For a demonstration of the bot, please reach out and I will provide a link/ add channel permissions. 
-
->>>>>>> 5009aa1 (format changes)
+This file is for code review and referance purposes only. For a demonstration of the bot, please reach out and I will provide a link/ add channel permissions.
