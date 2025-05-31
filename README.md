@@ -1,7 +1,7 @@
 
 ### Workflow Overview
 
-The chatbot operates as follows (in shameless pseudo-code):
+The chatbot operates as follows :
 
 1. **User Input:** A user prompts the bot.
 2. **Database Matching:** The bot searches its database for a matching response.
